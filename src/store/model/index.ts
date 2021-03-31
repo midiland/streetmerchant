@@ -35,10 +35,12 @@ import {BAndH} from './bandh';
 import {BestBuy} from './bestbuy';
 import {BestBuyCa} from './bestbuy-ca';
 import {Box} from './box';
+import {Boulanger} from './boulanger';
 import {Bpctech} from './bpctech';
 import {BpmPower} from './bpmpower';
 import {BT} from './bt';
 import {CanadaComputers} from './canadacomputers';
+import {Carrefour} from './carrefour';
 import {Caseking} from './caseking';
 import {Ccl} from './ccl';
 import {Centrecom} from './centrecom';
@@ -50,6 +52,7 @@ import {Coolmod} from './coolmod';
 import {Corsair} from './corsair';
 import {CorsairUK} from './corsair-uk';
 import {Cpl} from './cpl';
+import {Cultura} from './cultura';
 import {Currys} from './currys';
 import {Cyberport} from './cyberport';
 import {Dcomp} from './dcomp';
@@ -67,6 +70,7 @@ import {Evatech} from './evatech';
 import {Evga} from './evga';
 import {EvgaEu} from './evga-eu';
 import {Expert} from './expert';
+import {Fnac} from './fnac';
 import {Futurex} from './futurex';
 import {Galaxus} from './galaxus';
 import {Game} from './game';
@@ -88,6 +92,7 @@ import {Medimax} from './medimax';
 import {Megekko} from './megekko';
 import {MemoryExpress} from './memoryexpress';
 import {MicroCenter} from './microcenter';
+import {Micromania} from './micromania';
 import {Mindfactory} from './mindfactory';
 import {Msy} from './msy';
 import {Mwave} from './mwave';
@@ -183,10 +188,12 @@ export const storeList = new Map([
   [BestBuy.name, BestBuy],
   [BestBuyCa.name, BestBuyCa],
   [Box.name, Box],
+  [Boulanger.name, Boulanger],
   [Bpctech.name, Bpctech],
   [BpmPower.name, BpmPower],
   [BT.name, BT],
   [CanadaComputers.name, CanadaComputers],
+  [Carrefour.name, Carrefour],
   [Caseking.name, Caseking],
   [Ccl.name, Ccl],
   [Centrecom.name, Centrecom],
@@ -198,6 +205,7 @@ export const storeList = new Map([
   [Corsair.name, Corsair],
   [CorsairUK.name, CorsairUK],
   [Cpl.name, Cpl],
+  [Cultura.name, Cultura],
   [Currys.name, Currys],
   [Cyberport.name, Cyberport],
   [Dcomp.name, Dcomp],
@@ -215,6 +223,7 @@ export const storeList = new Map([
   [Evga.name, Evga],
   [EvgaEu.name, EvgaEu],
   [Expert.name, Expert],
+  [Fnac.name, Fnac],
   [Futurex.name, Futurex],
   [Galaxus.name, Galaxus],
   [Game.name, Game],
@@ -237,6 +246,7 @@ export const storeList = new Map([
   [Ldlc.name, Ldlc],
   [MemoryExpress.name, MemoryExpress],
   [MicroCenter.name, MicroCenter],
+  [Micromania.name, Micromania],
   [Mindfactory.name, Mindfactory],
   [Msy.name, Msy],
   [Mwave.name, Mwave],

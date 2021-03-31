@@ -71,10 +71,12 @@ Used with the `STORES` variable.
 | Best Buy | US | `bestbuy`|
 | Best Buy | CA | `bestbuy-ca`|
 | Box | UK | `box`|
+| Boulanger | FR | `boulanger`|
 | BPCTech | AU | `bpctech`|
 | BPM-Power | IT | `bpm-power`|
 | BT | UK | `bt`|
 | CanadaComputers | CA | `canadacomputers` |
+| Carrefour | FR | `carrefour` |
 | Caseking | DE | `caseking`|
 | CCL | UK | `ccl`|
 | Centrecom | AU | `centrecom`|
@@ -86,6 +88,7 @@ Used with the `STORES` variable.
 | Corsair | US | `corsair`|
 | Corsair | UK | `corsair-uk`|
 | CPL | AU | `cpl`|
+| Cultura | FR | `cultura`|
 | Currys | UK | `currys`|
 | Cyberport | DE | `cyberport` |
 | DComp | AU | `dcomp`|
@@ -103,6 +106,7 @@ Used with the `STORES` variable.
 | EVGA | US | `evga`|
 | EVGA | EU | `evga-eu`|
 | Expert | DE | `expert`|
+| Fnac | FR | `fnac`|
 | Futurex | DE | `futurex`|
 | Galaxus | DE | `galaxus`|
 | Game | UK | `game`|
@@ -125,6 +129,7 @@ Used with the `STORES` variable.
 | Megekko | NL | `megekko`|
 | MemoryExpress | CA | `memoryexpress`|
 | Micro Center | US | `microcenter`|
+| Micromania | FR | `micromania`|
 | Mindfactory | DE | `mindfactory` |
 | MSY | AU |  `msy`|
 | Mwave | AU | `mwave`|
